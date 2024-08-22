@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-scikit-learn
-xgboost
-matplotlib
+fastapi==0.112.1
+uvicorn==0.30.6
+scikit-learn==1.5.1
+xgboost==2.1.1
+matplotlib==3.9.2
